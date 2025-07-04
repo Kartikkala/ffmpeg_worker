@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "name": "ffmpeg_worker",
+  "description": "ffmpeg_worker for Personal Cloud Drive",
+  "version": "1.0.0",
+  "main": "out/app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kartikkala/ffmpeg_worker.git"
+  },
+  "author": "Kartik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kartikkala/ffmpeg_worker/issues"
+  },
+  "homepage": "https://github.com/Kartikkala/ffmpeg_worker#readme"
+}
